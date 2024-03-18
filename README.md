@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Screenshot (154)](https://github.com/SuhasSindhuvadi/WeatherAppication_Tomorrow_io_API/assets/134517158/a2326eef-88a0-4d28-bd59-ffef2b7169d6)
